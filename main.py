@@ -40,7 +40,6 @@ def submitDaily():
     tk_3 = var3.get()
     tk_4 = var4.get()
 
-    print(f'{tk_1}, {tk_2}, {tk_3}')
 
     sheet_input = {
         'dailyhabit': {
